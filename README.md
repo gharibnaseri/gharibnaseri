@@ -1,5 +1,4 @@
 ### Hi there 👋
-Welcome to my page!
 <p>Welcome to my page! </br> I'm Mojtaba, Frontend developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197430.png" width="13"/> <b>Toronto , Canada</b> </p>
 <h3>Things I code with</h3>
 <p>
@@ -12,6 +11,7 @@ Welcome to my page!
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript" />
 </p>
 <!--
 **gharibnaseri/gharibnaseri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
